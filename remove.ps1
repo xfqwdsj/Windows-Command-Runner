@@ -5,8 +5,8 @@ cd $path
 
 $help = @"
 用法：
-    remove-action <-n <名字>>
-    remove-action help
+    remove <-n <名字>>
+    remove help
 
 选项：
     <-n <名字>>

@@ -5,8 +5,8 @@ cd $path
 
 $help = @"
 用法：
-    add-action <-p <路径>> <-f <文件路径>> <-n <名字>>
-    add-action help
+    create <-p <路径>> <-f <文件路径>> <-n <名字>>
+    create help
 
 选项：
     <-p <路径>>

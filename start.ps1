@@ -5,8 +5,8 @@ cd $path
 
 $help = @"
 用法：
-    take-action <-n <名字>>
-    take-action help
+    start <-n <名字>>
+    start help
 
 选项：
     <-n <名字>>
